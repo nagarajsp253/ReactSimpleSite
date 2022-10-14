@@ -1,6 +1,5 @@
 import React from 'react'
-//import Appweb from './UseEffectLogIn/Appweb';
-import Appweb from './WeatherApp/Appweb'
+import Appweb from './Components/Appweb';
 
 const App = () => {
   return (<Appweb/>)
